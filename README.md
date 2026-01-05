@@ -4,7 +4,7 @@ This project is a professional-grade Machine Learning application designed to pr
 
 ---
 
-### 🚀 [Live Demo: Click Here to View the App](https://telco-churn-ai.streamlit.app/) 
+### 🚀 [Live Demo: Click Here to View the App]([https://telco-churn-ai.streamlit.app/](https://telco-churn-ai-gsxfbclqlfdn7k8lxctpm6.streamlit.app/)) 
 
 ---
 
